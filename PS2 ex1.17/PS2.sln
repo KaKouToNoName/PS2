@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PS2 ex1.17", "PS2 ex1.17.csproj", "{A664440B-3713-4766-BD48-96383B21257A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS2 ex2.6", "..\PS2 ex6\PS2 ex2.6.csproj", "{099DE927-C736-4AE3-8C3A-AD588AA82058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS2 ex3.18", "..\PS2 ex3.18\PS2 ex3.18.csproj", "{C5A6F54D-FD45-4618-A55F-6AC7992018A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A664440B-3713-4766-BD48-96383B21257A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A664440B-3713-4766-BD48-96383B21257A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A664440B-3713-4766-BD48-96383B21257A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A664440B-3713-4766-BD48-96383B21257A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099DE927-C736-4AE3-8C3A-AD588AA82058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099DE927-C736-4AE3-8C3A-AD588AA82058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099DE927-C736-4AE3-8C3A-AD588AA82058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099DE927-C736-4AE3-8C3A-AD588AA82058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A6F54D-FD45-4618-A55F-6AC7992018A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A6F54D-FD45-4618-A55F-6AC7992018A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A6F54D-FD45-4618-A55F-6AC7992018A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A6F54D-FD45-4618-A55F-6AC7992018A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFECBE89-0349-4BF1-9986-94639AC87E99}
+	EndGlobalSection
+EndGlobal
